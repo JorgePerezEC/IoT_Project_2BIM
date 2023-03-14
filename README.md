@@ -8,7 +8,7 @@ How to install React Native App
 3. Execute in terminal: ```npm install```
 4. Execute in terminal: ```npm start``` or ```expo start```
 
-Change mosquitto.conf file withe follow code:
+Change mosquitto.conf file with follow code:
 ```
 -----------------------
 listener 1883 0.0.0.0
