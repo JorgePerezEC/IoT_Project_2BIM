@@ -1,5 +1,5 @@
-# IoT_Project_2BIM
-Project to create a app using react native expo that allows to connect with MQTT mosquitto broker.
+# IoT_Project
+Project to create an app using react native expo which allows to connect to mosquitto's MQTT broker and subscribe to broker topics where sensors connected to an ESP32 are publishing data.
 
 How to install React Native App
 
